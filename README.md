@@ -1,5 +1,5 @@
 # Trabalho-BI
 
 
--- Felipe Almeida
+-- Felipe Almeida | 
 -- Jonathan Magacho Demetrio
